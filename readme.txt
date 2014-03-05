@@ -1,1 +1,1 @@
-My first attempt with CSS3
+My first attempt with CSS3 and Flask.
